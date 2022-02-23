@@ -1,6 +1,7 @@
 {
   "name": "Pandora Media Keys",
   "description": "Adds media key support to pandora.com",
+  "homepage_url": "https://github.com/bkputnam/pandora_media_keys",
   "version": "1.0",
   "manifest_version": 3,
   "content_scripts": [
