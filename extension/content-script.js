@@ -28,7 +28,7 @@ navigator.mediaSession.setActionHandler('nexttrack', function() {
   }
 });
 
-navigator.mediaSession.setActionHandler('play', async function() {
+navigator.mediaSession.setActionHandler('play', function() {
   document.querySelector('.PlayButton').click();
 });
 
